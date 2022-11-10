@@ -1,9 +1,48 @@
 # Tarea1
-Tarea 1 Luis Andrade 10063
+![image](https://user-images.githubusercontent.com/117800753/201227499-a602b18d-3e3c-48a3-8c1c-8e95031ce080.png)
 
-Ejercicios Pares
+Fecha: 10/11/2022
 
-Capitulo 1
+Estudiante: Luis Anderson Andrade Diaz
+
+Carrera: Ingeniería Mecatrónica
+
+Materia: Fundamentos de Circuitos Eléctricos
+
+Nrc: 10063
+
+
+  Informe Tarea
+
+1.	OBJETIVO GENERAL
+
+Repasar conceptos como, el estándar SI, Voltaje, Corriente y resistencia
+
+2.	OBJETIVOS ESPECÍFICOS
+
+•	Comprender las unidades SI fundamentales, complementarias y derivadas
+
+•	Dominar cualquier número y calcularlo por medio de una potencia de diez
+
+•	Aprender prefijos métricos para expresar cantidades eléctricas
+
+•	Determinar la cantidad y el movimiento de los electrones de carga presente en un número dado de electrones
+
+•	Medir de forma correcta cantidades como el voltaje, corriente y resistencias
+
+3.	MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/117800753/201226778-0e390af4-3b23-44de-ac8d-3bc5b9747e5d.png)
+
+![image](https://user-images.githubusercontent.com/117800753/201226808-2e7347b8-9676-4656-bdc1-943970e39e45.png)
+
+ 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+
+Ejercicios pares
+
+	Capítulo 1
+  
+Problemas
 
 2. Exprese cada número fraccionario en notación científica:
 (a)  1/500  (b)  1/2000  (c)  1/5,000,000
@@ -190,5 +229,27 @@ medio de un principio llamado inducción electromagnética
 
 Un multímetro de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución.
 
+
+	5.VIDEO
+  
+https://youtu.be/LFRMC20pjUk
+
+	6.CONCLUSIONES
+  
+	1.Se comprendió las unidades SI fundamentales, complementarias y derivadas, leyendo el mapa mental pudimos aprender sobre cada una de las unidades ya mencionadas y ahora las podemos identificar
+  
+	2.Logramos dominar cualquier número y calcularlo por medio de una potencia de diez ya sea en la suma, sustracción, multiplicación o división, incluso transformarlos a notación de ingeniería
+  
+	3.Se aprendío prefijos métricos para expresar cantidades eléctricas ya sea la carga Q. Conductancia G,,Energía W y estos con sus respectivas unidades de medida
+  
+	4.Determinamos la cantidad y el movimiento de los electrones de carga presente en un número dado de electrones mediante fórmulas como pueden ser I=Q/t o Q=e^-/(6.25×10^18 ) C
+  
+	5.Aprendimos de forma correcta cantidades como el voltaje, corriente y resistencias tomando como concepto que para medir el voltaje debemos conectar nuestro multímetro al circuito en paralelo, para medir ampers en serie y para medir resistencias hay que desconectar los componentes del circuito
+
+	7.BIBLIOGRAFÍA
+Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+RUBRICA
+![image](https://user-images.githubusercontent.com/117800753/201227367-3668e6d8-a3d2-4a45-b722-c0823ae387b5.png)
 
 
